@@ -19,7 +19,7 @@ const Hero = () => {
         <div className='relative leading-[30px] max-w-[897px]'>
           <span>
             {
-              "Explore backend development across diverse frameworks: Express, Spring Boot, and Fast Api. Experience firsthand how each stack shapes the application's  architecture and performance. Join us and boraden your development horizons."
+              "A nation wide leader in education, with courses tailored to meet your needs. "
             }
           </span>
         </div>
