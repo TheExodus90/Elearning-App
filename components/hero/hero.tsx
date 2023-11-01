@@ -19,7 +19,7 @@ const Hero = () => {
         <div className='relative leading-[30px] max-w-[897px]'>
           <span>
             {
-              "A nation wide leader in education, with courses tailored to meet your needs. Join Horizon Learning and begin your journey today."
+              "Join Horizon Learning and begin your journey today. Where courses are crafted to your career aspirations by industry experts. Dive into learning adventures that culminate in nationally recognized certifications, opening doors to exceptional opportunities. Ignite your potential—begin your journey with us today and chart a course to a brilliant future."
             }
           </span>
         </div>
