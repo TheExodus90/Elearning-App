@@ -2,7 +2,7 @@
 
 import SearchInput from '../search-input';
 import Image from 'next/image';
-import HeroImage from '@/public/hero-image.svg';
+import HeroImage from '@/public/hero-image.png';
 
 const Hero = () => {
   return (
